@@ -77,7 +77,7 @@ This project shows how Power BI can be used to turn raw customer data into clear
 ---
 
 ## 👤 Author
-**Shadan Tech**   
+**Shadan**   
 _Data Analyst_
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shadansarfaraz1)  
